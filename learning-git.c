@@ -7,7 +7,7 @@ main()
    
    
    printf("Hi");
-   printf("Hello");
-   
-   printf("done");
+  
+   printf("end");
+
 }
